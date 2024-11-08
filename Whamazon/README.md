@@ -3,7 +3,7 @@
 _#Warmups_<br>
 _#Author: @JohnHammond_<br>
 
-Wham! Bam! Amazon is entering the hacking business! Can you buy a flag? 
+Wham! Bam! Amazon is entering the hacking business! Can you ***buy a flag***? 
 
 ## Solution
 
