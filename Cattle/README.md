@@ -3,16 +3,15 @@
 _#Warmups_<br>
 _#Author: @JohnHammond_<br>
 
-I know it's an esoteric challenge for a Capture the Flag, but could you herd these cows for me? 
+I know it's an ***esoteric challenge*** for a Capture the Flag, but could you herd these cows for me? 
 
-Get the file [here](../)
+Get the file [here](../cattle)
 
 ## Solution
 
-1. Convert the binary.<br>
+1. Convert the cow code.<br>
 
 > [!TIP]
-> [CyberChef](https://gchq.github.io/CyberChef/#recipe=From_Binary('Space',8))
+> [CacheSleuth](https://www.cachesleuth.com/cow.html)
 
 2. Get the flag.
-
