@@ -1,6 +1,9 @@
 # Description
 
-![image](https://github.com/user-attachments/assets/07159c7f-b29e-4a7d-a3ba-d7d16300b30d)
+_#Warmups_<br>
+_#Author: @JohnHammond_<br>
+
+Don't believe everything you see on the Internet! Anyway, have you heard this intro soundtrack from Half-Life 3?<br>
 
 Get the file [here](../Half-Life_3_OST.mp3).
 
