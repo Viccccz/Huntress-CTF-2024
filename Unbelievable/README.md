@@ -8,11 +8,12 @@ Get the file [here].()
 
 1. Check the file extension.<br>
    `file Half-Life_3_OST.mp3`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
+2. Change the file extension.<br>
+   `file Half-Life_3_OST.mp3 file.png`
+
 > [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
+> Use command `file <old file name with wrong extension> <new file name with correct extension>` 
 
-6. Get the flag.
-
+3. View the image file.<br>
+   `eog file.png`
+4. Get the flag.
