@@ -12,5 +12,6 @@ Connect here:<br>
 
 ## Solution
 
-1. 
-
+1. Join the Discord.
+2. Create a ticket.
+3. Get the flag.
