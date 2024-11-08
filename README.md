@@ -1,2 +1,3 @@
-# Huntress-CTF-2024
-Huntress CTF 2024 Writeup / Walkthrough
+# Huntress CTF Challenge List
+
+1. [xx](xxx)
