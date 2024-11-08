@@ -3,7 +3,7 @@
 _#Warmups_<br>
 _#Author: @JohnHammond_<br>
 
-Hmmm, have you seen some of the strange DNS records for the ctf.games domain? One of them sure is odd... 
+Hmmm, have you seen some of the strange ***DNS records*** for the ctf.games domain? One of them sure is odd... 
 
 ## Solution
 
