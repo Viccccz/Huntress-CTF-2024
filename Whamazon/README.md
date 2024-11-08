@@ -1,6 +1,9 @@
 # Description
 
-![image](https://github.com/user-attachments/assets/aa298aa3-2fda-4851-b00e-bd395fbbbdbd)
+_#Warmups_<br>
+_#Author: @JohnHammond_<br>
+
+Wham! Bam! Amazon is entering the hacking business! Can you buy a flag? 
 
 ## Solution
 
