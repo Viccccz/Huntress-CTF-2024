@@ -1,6 +1,9 @@
 # Description
 
-![image](https://github.com/user-attachments/assets/3f2f8122-d020-4cc4-99a3-b1c78921e714)
+_#Warmups_<br>
+_#Author: @JohnHammond_<br>
+
+Hmmm, have you seen some of the strange DNS records for the ctf.games domain? One of them sure is odd... 
 
 ## Solution
 
