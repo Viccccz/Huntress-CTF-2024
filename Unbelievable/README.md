@@ -1,9 +1,8 @@
 # Description
 
-_#Warmups_<br>
+![image](https://github.com/user-attachments/assets/07159c7f-b29e-4a7d-a3ba-d7d16300b30d)
 
-![image](https://github.com/user-attachments/assets/07159c7f-b29e-4a7d-a3ba-d7d16300b30d)<br><br>
-[Get the file here]()
+Get the file [here].()
 
 ## Solution
 
